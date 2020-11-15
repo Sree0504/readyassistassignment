@@ -14,11 +14,11 @@
     
 3. back to clone directory and run the application
 
-  <b>yarn run dev</b>
+    <b>yarn run dev</b>
   
   <b>Note: above command runs server and frontend concurrently  **</b>
     
     *** OR ***
     
-  otherwise run frontend and server individully with below command
+  run frontend and server individully with below command
     <b> yarn start</b>
