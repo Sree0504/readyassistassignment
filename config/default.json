@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb://localhost:27017/readyassist",
+	"server": "http://localhost:5002"
+}
