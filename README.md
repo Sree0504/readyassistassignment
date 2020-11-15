@@ -1,4 +1,5 @@
 # Local system configuration 
+
     # Mongodb, Nodejs >10  
     
 # package installation and run application
@@ -11,9 +12,8 @@
 
     <b>cd frontend && yarn install</b>
     
-3. back to clone directory
+3. back to clone directory and run the application
 
-4. run the application
   <b>yarn run dev</b>
   
   <b>Note: above command runs server and frontend concurrently  **</b>
